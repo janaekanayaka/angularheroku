@@ -1,0 +1,30 @@
+.textBox{
+    width:80%;
+    height:33px ;
+}
+.homePage{
+    color:blue;
+    margin: 5px 5px 5px 5px;
+    padding:5px 5px 5px 5px;
+}
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  .span {
+    margin: auto;
+}
+
+.tp-button-row a {
+   margin-right: 8px;
+}
+.textBox2{
+    width:10%;
+    height:33px ;
+}
+.submitform{
+    width: 200px;
+    height: 50px;
+}
+.homeemailPage{
+    color:teal;
+}
